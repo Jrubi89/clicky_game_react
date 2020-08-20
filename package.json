@@ -21,7 +21,9 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "if-env": "^1.0.4"
+    "if-env": "^1.0.4",
+    "react": "^16.13.1",
+    "scripts": "^0.1.0"
   },
   "repository": {
     "type": "git",
